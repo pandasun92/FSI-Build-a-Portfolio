@@ -1,0 +1,43 @@
+body {
+    cursor: not-allowed;
+    background-color: rgb(80, 229, 255);
+}
+
+.titlefont1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.titlefont2 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#catPic {
+    width: 300px;
+    height: 300px;
+    background-color:#FFFFFF;
+    border:5px solid;
+    border-style: double;
+    margin-left: auto;
+    margin-right: auto;
+}
+#Pic1 {
+    width: 1500px;
+    height: 1001px;
+    background-color:#FFFFFF;
+    border:5px solid;
+    border-style: double;
+    margin-left: auto;
+    margin-right: auto;
+}
+#Pic2 {
+    width: 729px;
+    height: 500px;
+    background-color:#FFFFFF;
+    border:5px solid;
+    border-style: double;
+    margin-left: auto;
+    margin-right: auto;
+}
+.centerText {
+    text-align: center;
+}
